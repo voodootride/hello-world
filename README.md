@@ -1,2 +1,1 @@
-# hello-world
-Just a new repository
+Initialize this repository with a README
